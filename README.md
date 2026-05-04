@@ -14,7 +14,7 @@ El sistema se organiza en torno a la entidad **Pedido**, que conecta clientes, p
 
 ## 📊 Diagrama E-R
 
-*(aquí irá la imagen del modelo)*
+![Modelo E-R](modelo.png)
 
 ## 👤 Autor
 Ronald Álvarez Vaca
